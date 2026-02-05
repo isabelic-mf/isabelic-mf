@@ -4,7 +4,7 @@
  
 <table>
 <tr>
-<td width="1100">
+<td width="900">
 <img src="[https://tinyurl.com/3wwptjtm](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFiYXgyZTQxMzB5eHZkN2gxODkxZGhuYWluMjgwcWhwcm1tMjJrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZEl1yTi26mJzrI4VN/giphy.gif
 )" width="750">
 </td>
