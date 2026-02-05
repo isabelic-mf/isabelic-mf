@@ -24,3 +24,10 @@
 <div align="center">
 <img src="https://gh-readme-profile.vercel.app/api?username=isabelic-mf&theme=dark" />
 </div>
+
+## 🛠️ Minhas Stacks
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,flutter,nextjs,ts,spring,python,java,mysql,dart,git,github,figma&theme=dark" />
+</div>
+
