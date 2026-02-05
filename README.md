@@ -8,11 +8,10 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFiYXgyZTQxMzB5eHZkN2gxODkxZGhuYWluMjgwcWhwcm1tMjJrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZEl1yTi26mJzrI4VN/giphy.gif" width="350">
 </td>
 <td>
-
-      Sou uma estudante ativa do ramo de tecnologia, trabalho especialmente com
+      Sou uma estudante ativa da área de tecnologia, com foco em
 <b>Java, JavaScript, HTML, CSS, Flutter e Dart</b>.  
-      Busco colaborações com times ativos e interessados.
-      Atualmente trabalho como Desenvolvedora de Software na WEG.
+      Busco colaborar com times engajados e projetos desafiadores que promovam crescimento contínuo.  
+      Atualmente atuo como Desenvolvedora de Software na WEG, aplicando boas práticas e construindo soluções eficientes e escaláveis.
 </td>
 </tr>
 <!--
