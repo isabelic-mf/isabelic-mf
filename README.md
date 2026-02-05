@@ -14,8 +14,16 @@
       Atualmente atuo como Desenvolvedora de Software na WEG, aplicando boas práticas e construindo soluções eficientes e escaláveis.
 </td>
 </tr>
-<!--
-**isabelic-mf/isabelic-mf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h2>📊 GitHub Status</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=isabelic-mf&show_icons=true&theme=dark&hide_border=false&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff88&border_radius=12" 
+    height="200"
+  />
+</p>
+
 
 Here are some ideas to get you started:
 
