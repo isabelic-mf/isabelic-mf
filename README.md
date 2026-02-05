@@ -1,29 +1,6 @@
-## Olá! Eu sou a Isabeli
+## Olá!
 
-## 🧑‍💻 izaf
-<p align="center">
-<svg width="320" height="60" viewBox="0 0 320 60">
-
-<style>
-.cursor {
-  animation: blink 1s step-end infinite;
-}
-@keyframes blink {
-  50% { opacity: 0; }
-}
-</style>
-
-<rect x="10" y="15" width="300" height="30" rx="6" fill="#f3f3f3" stroke="#ccc"/>
-
-<text x="20" y="35" font-family="monospace" font-size="14">
-  &lt;IsabeliFerreira /&gt;
-</text>
-
-<rect class="cursor" x="190" y="24" width="2" height="14" fill="black"/>
-
-</svg>
-</p>
-
+## 🧑‍💻 Bom dia Isabeli
 
 <table>
 <tr>
