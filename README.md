@@ -15,7 +15,7 @@
 </td>
 </tr>
 
-##📊 GitHub Status
+## 📊 GitHub Status
 
 <div align="center">
 <img src="https://gh-readme-profile.vercel.app/api?username=isabelic-mf&theme=dark" />
