@@ -28,7 +28,7 @@
 ## 🛠️ Minhas Stacks
 
 <div align="flexbox">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,flutter,nextjs,ts,spring,python,java,mysql,dart,git,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,flutter,nextjs,ts,spring,python,java,mysql,dart,git,github,figma&perline=6,theme=dark" />
 </div>
 
 ## 📬 Contato
