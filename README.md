@@ -27,7 +27,7 @@
 
 ## 🛠️ Minhas Stacks
 
-<div align="display:center; justify-content:center; flex-wrap:wrap; gap:12px;">
+<div align="flexbox">
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,flutter,nextjs,ts,spring,python,java,mysql,dart,git,github,figma&theme=dark" />
 </div>
 
