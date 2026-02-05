@@ -15,11 +15,9 @@
 </td>
 </tr>
 
-📊## GitHub Status
+##📊 GitHub Status
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=isabelic-mf&show_icons=true&theme=dark&hide_border=false&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff88&border_radius=12" 
-    height="200"
-  />
-</p>
+<div align="center">
+<img src="https://gh-readme-profile.vercel.app/api?username=TOKYOSXR&theme=dark" />
+</div>
+ 
