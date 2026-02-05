@@ -1,6 +1,29 @@
 ## Olá! Eu sou a Isabeli
 
-## 🧑‍💻 O que eu sou?
+## 🧑‍💻 izaf
+<p align="center">
+<svg width="120" height="60" viewBox="0 0 120 60">
+  <style>
+    .runner { animation: run 1s infinite linear; }
+    @keyframes run {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(100px); }
+    }
+  </style>
+
+  <!-- bonequinho -->
+  <g class="runner">
+    <circle cx="10" cy="20" r="6" fill="black"/>
+    <line x1="10" y1="26" x2="10" y2="40" stroke="black"/>
+    <line x1="10" y1="30" x2="2" y2="35" stroke="black"/>
+    <line x1="10" y1="30" x2="20" y2="30" stroke="black"/>
+    <line x1="10" y1="40" x2="3" y2="50" stroke="black"/>
+    <line x1="10" y1="40" x2="18" y2="50" stroke="black"/>
+    <text x="22" y="32" font-size="14">🔪</text>
+  </g>
+</svg>
+</p>
+
 
 <table>
 <tr>
