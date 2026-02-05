@@ -22,5 +22,5 @@
 ## 📊 GitHub Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabelic-mf&show_icons=true&theme=dark&bg_color=0d1117" />
+<img src="https://gh-readme-profile.vercel.app/api?username=isabelic-mf&theme=dark" />
 </div>
