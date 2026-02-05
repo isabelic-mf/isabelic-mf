@@ -15,7 +15,7 @@
 </td>
 </tr>
 
-##📊 GitHub Status
+📊## GitHub Status
 
 <p align="center">
   <img 
