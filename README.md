@@ -5,10 +5,10 @@
 <table>
 <tr>
 <td width="800">
-<img src="[https://tinyurl.com/3wwptjtm](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFiYXgyZTQxMzB5eHZkN2gxODkxZGhuYWluMjgwcWhwcm1tMjJrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZEl1yTi26mJzrI4VN/giphy.gif
-)" width="350">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFiYXgyZTQxMzB5eHZkN2gxODkxZGhuYWluMjgwcWhwcm1tMjJrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZEl1yTi26mJzrI4VN/giphy.gif" width="350">
 </td>
 <td>
+
       Sou uma estudante ativa do ramo de tecnologia, trabalho especialmente com
 <b>Java, JavaScript, HTML, CSS, Flutter e Dart</b>.  
       Busco colaborações com times ativos e interessados.
