@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Isabeli
 
-## 🧑‍💻 Quem Sou Eu?
+## 🧑‍💻 O que eu sou?
 
 <table>
 <tr>
@@ -9,10 +9,7 @@
 </td>
 
 <td>
-  Sou uma estudante ativa da área de tecnologia, com foco em
-  <b>Java, JavaScript, HTML, CSS, Flutter e Dart</b>.  
-  Busco colaborar com times engajados e projetos desafiadores que promovam crescimento contínuo.  
-  Atualmente atuo como Desenvolvedora de Software na WEG, aplicando boas práticas e construindo soluções eficientes e escaláveis.
+Sou Desenvolvedora de Software na WEG, com formação em Desenvolvimento de Sistemas pelo CTW (Centro de Treinamento WEG). Atuo no desenvolvimento e evolução de sistemas, utilizando Java, Programação Orientada a Objetos e boas práticas de engenharia de software, com foco em código limpo e organização.
 </td>
 </tr>
 </table>
