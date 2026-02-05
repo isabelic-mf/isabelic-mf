@@ -2,42 +2,28 @@
 
 ## 🧑‍💻 izaf
 <p align="center">
-<svg width="220" height="70" viewBox="0 0 220 70">
+<svg width="320" height="60" viewBox="0 0 320 60">
 
 <style>
-.runner {
-  animation: run 2s linear infinite;
+.cursor {
+  animation: blink 1s step-end infinite;
 }
-@keyframes run {
-  0% { transform: translateX(-40px); }
-  100% { transform: translateX(220px); }
+@keyframes blink {
+  50% { opacity: 0; }
 }
 </style>
 
-<!-- bonequinho -->
-<g class="runner" stroke="black" stroke-width="2" fill="none">
-  <!-- cabeça -->
-  <circle cx="20" cy="25" r="6" fill="black"/>
+<rect x="10" y="15" width="300" height="30" rx="6" fill="#f3f3f3" stroke="#ccc"/>
 
-  <!-- corpo -->
-  <line x1="20" y1="31" x2="20" y2="45"/>
+<text x="20" y="35" font-family="monospace" font-size="14">
+  &lt;IsabeliFerreira /&gt;
+</text>
 
-  <!-- braços -->
-  <line x1="20" y1="35" x2="10" y2="40"/>
-  <line x1="20" y1="35" x2="32" y2="33"/>
+<rect class="cursor" x="190" y="24" width="2" height="14" fill="black"/>
 
-  <!-- notebook -->
-  <rect x="32" y="28" width="14" height="10" fill="black"/>
-
-  <!-- pernas -->
-  <line x1="20" y1="45" x2="10" y2="55"/>
-  <line x1="20" y1="45" x2="30" y2="55"/>
-</g>
-
-<!-- texto -->
-<text x="60" y="30" font-size="14" fill="black">coding...</text>
 </svg>
 </p>
+
 
 <table>
 <tr>
